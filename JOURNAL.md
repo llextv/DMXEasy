@@ -53,3 +53,38 @@ Proto:
 For a total of 93,86 € (without PCB / 3D print (and fail ...)) = arround $109,45
 
 **Total time spent: 4 hours**
+
+# June 1: Electric design ...
+
+This is total BOM:
+2 × ESP32-WROOM-32
+2 × MAX485
+6 × faders 10k
+53 × boutons
+53 × 1N4148
+8 × 10kΩ
+2 × 1kΩ
+2 × 120Ω
+1 × 330Ω
+10 × 100nF
+2 × 470µF
+1 × fusible 2A + support
+1 × interrupteur
+1 × jack DC 5.5×2.1
+2 × XLR DMX
+perfboard + câblage
+
+This is tinkercad scheme:
+
+![alt text](https://cdn.hackclub.com/019e84a2-3a85-72f4-a779-816ac0cea62a/tk1.png)
+For buttons matrices
+
+For the moment it's this:
+![alt text](https://cdn.hackclub.com/019e84a2-73f4-7537-bf09-aa52ffbb638e/elec.png)
+
+This is finished:
+![alt text](https://cdn.hackclub.com/019e84a2-8dc8-7522-ad71-d8ddc6de3124/elecFinish.png)
+
+I spend lot of time on this scheme because I made multiple calques for allow me to separate differents components or electrical / data wire for example ...
+
+**Total time spent: 3 hours**
