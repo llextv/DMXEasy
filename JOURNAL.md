@@ -88,3 +88,20 @@ This is finished:
 I spend lot of time on this scheme because I made multiple calques for allow me to separate differents components or electrical / data wire for example ...
 
 **Total time spent: 3 hours**
+
+# June 2: KiCad
+
+Today I work on 3d print
+For size of hole:
+14 mm × 14 mm per switches
+70 mm × 5 à 6 mm per fader
+
+This is my design:
+
+![alt text](https://cdn.hackclub.com/019e8902-bd30-7ece-b995-ffe8bfd304ba/kicadImg.png)
+
+I have alrealy make swicthe hole so it's easy (more than fader because I never made this)
+
+All of this go to be print in 3d for the moment I think (for debug i would like to print just the top of plate)
+
+**Total time spent: 3 hours**
