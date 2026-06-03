@@ -105,3 +105,17 @@ I have alrealy make swicthe hole so it's easy (more than fader because I never m
 All of this go to be print in 3d for the moment I think (for debug i would like to print just the top of plate)
 
 **Total time spent: 3 hours**
+
+# June 3: Software
+
+Today, I start to build software (it's very difficult for the moment to see where I go with my script lol):
+Here is code with help of AI (not tested because I cannot), AI help me to make base without errors, my jobs is to connect all principally
+This is code:
+(Available in dev/ESP/ESP_DMX/DMX Controller)
+
+![alt text](https://cdn.hackclub.com/019e8efa-01ac-77e6-b00f-4cd5df39c927/dev.png)
+
+My time are spend on understand code (I'm web dev, not arduino dev lol)
+I also make reflection about documentation from JSON libs, esp_dmx and other librairies
+
+**Total time spent: 2.5 hours**
