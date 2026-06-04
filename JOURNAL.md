@@ -119,3 +119,13 @@ My time are spend on understand code (I'm web dev, not arduino dev lol)
 I also make reflection about documentation from JSON libs, esp_dmx and other librairies
 
 **Total time spent: 2.5 hours**
+
+# June 4: Update scheme
+First, I clean my scheme and I made lot of calques in my scheme, it's allow me to disable part of circuit for precision/
+
+![scheme](https://cdn.hackclub.com/019e9399-19b4-7410-afec-8760b8c219c9/scheme.png)
+
+I start a big part of scheme: adressing all wire (I spend lot of time in this because check of all documentation of all component of this circuit)
+![wireScheme](https://cdn.hackclub.com/019e9399-0de1-7728-997e-5f1a1104ac3a/wireScheme.png)
+
+**Total time spent: 3.5 hours**
