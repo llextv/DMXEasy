@@ -129,3 +129,37 @@ I start a big part of scheme: adressing all wire (I spend lot of time in this be
 ![wireScheme](https://cdn.hackclub.com/019e9399-0de1-7728-997e-5f1a1104ac3a/wireScheme.png)
 
 **Total time spent: 3.5 hours**
+
+# June 5: Keycaps occupation
+Today, my job is to find good keycaps or create one example
+I have find this:
+![keycaps](https://cdn.hackclub.com/019e99ca-0c6f-736f-b817-816d54de15db/keycaps.png)
+
+[KeycapsLink](https://cults3d.com/fr/mod%C3%A8le-3d/divers/blank-keycap-bottom-row-1-25u)
+
+Differents problem with this keycaps:
+-> At the base it's for resine print
+-> size of 1.25U but my switches is 1U ? I gonna try ...
+All keycaps will be 3D printed
+
+My work now is to estimate price of print
+![cura1](https://cdn.hackclub.com/019e99ca-1592-785e-9991-94579921c08b/cura1.png)
+This config of print optimised for supports
+![cura2](https://cdn.hackclub.com/019e99ca-1bfb-7d8a-8504-4798de29fe46/cura2.png)
+![cura3](https://cdn.hackclub.com/019e99ca-2423-7153-b6d4-63dfadeeb57c/cura3.png)
+
+One keycaps:
+![cura4](https://cdn.hackclub.com/019e99ca-2e6a-7387-8c38-2958c6cc1b64/cura4.png)
+
+So beautiful: 
+![cura5](https://cdn.hackclub.com/019e99ca-5482-7f69-8c7d-13f0c72e912d/cura5.png)
+
+Finally it's this for 53 btns
+![cura6](https://cdn.hackclub.com/019e99ca-8592-7454-8404-96be8da77de7/cura6.png)
+
+Finally it's this:
+![cura7](https://cdn.hackclub.com/019e99ca-8ff8-7415-9475-c6d95f59edf3/cura7.png)
+
+arround 120g of plastic
+
+**Total time spent: 2 hours**
