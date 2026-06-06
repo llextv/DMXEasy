@@ -163,3 +163,38 @@ Finally it's this:
 arround 120g of plastic
 
 **Total time spent: 2 hours**
+
+# June 6: Constrain occupation
+I start to make reflection arround constraint of our dmx table.
+
+First constrain: Strenght
+I need to add feet to my design to support the top; we'll have to see when that's printed.
+![fusion1](https://cdn.hackclub.com/019e9e94-f52e-7fcc-9e45-e847bc3e494f/fusion1.png)
+
+Second constrain: Heat
+I need to think about adding ventilation: first option: add one or two fans to remove the heat.
+
+Thirth constrain: size of print
+I need to think of a way to join different 3D printed parts together.
+First idea: heat them to melt whatever would bond them?
+Second idea: hot glue (no, I'm kidding lol)
+
+I now need to confirm my solutions:
+for First constrain I will wait all component for see
+
+Second constrain:
+Make grid for stay air pass on the case
+I think ventirad is overkill for my case ?
+![constrain2](https://cdn.hackclub.com/019e9e95-274d-7f18-b2f8-9affcbe5d38c/constrain2.png)
+(is back of my case)
+I halso add a hole:
+![holeconstrain2](https://cdn.hackclub.com/019e9e95-674d-7483-b361-cc3d35ffba1b/holeconstrain2.png)
+(for 2 universe and 1 power)
+![btnconstrain2](https://cdn.hackclub.com/019e9e95-a893-7018-b30b-01edb2420c8e/btnconstrain2.png)
+I also add a hole for ON/OFF btn
+
+Thirth constrain:
+I print little part for test heat it
+![Constrain3](https://cdn.hackclub.com/019e9e95-e8a7-7bee-bba9-5bc2d694b3f1/img3constrain.jpg)
+
+**Total time spent: 4 hours**
