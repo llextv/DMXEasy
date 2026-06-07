@@ -198,3 +198,22 @@ I print little part for test heat it
 ![Constrain3](https://cdn.hackclub.com/019e9e95-e8a7-7bee-bba9-5bc2d694b3f1/img3constrain.jpg)
 
 **Total time spent: 4 hours**
+
+# June 7: Safety Check & other info
+Go make a safety check:
+- Put a heat shrink tubing for each connexion (164PCS 2: 1 Cable Shrink Tube Kit Heat Assorted Pack Thermoretractile Insulation Sleeving Cable Wire Shrink Wrapping for DIY) = 1 * 2.19€
+
+We need to do something to fix each component:
+For ESP:
+![ESP](https://cdn.hackclub.com/019ea3c9-a3ef-797f-a0de-b8a4024ccb83/espmaintenaner.png)
+
+For MAX485:
+![MAX485](https://cdn.hackclub.com/019ea3c9-9bd2-7a12-af9c-38a0236442be/MAX845.png)
+
+I have made an assembling with this:
+![assembling](https://cdn.hackclub.com/019ea3c9-b9da-74af-88c9-6d7fa96a483b/assembling.png)
+
+What I need:
+- Tin cable for welding (https://fr.aliexpress.com/item/1005009973086759.html) = 1 * 4,59€
+
+**Total time spent: 3.5 hours**
