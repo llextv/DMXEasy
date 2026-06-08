@@ -217,3 +217,71 @@ What I need:
 - Tin cable for welding (https://fr.aliexpress.com/item/1005009973086759.html) = 1 * 4,59€
 
 **Total time spent: 3.5 hours**
+
+# June 8: Recap all my docs for see where I go
+All is in title !
+
+**BOM:**
+- 6 faders (https://fr.aliexpress.com/item/1005006152089336.html) = 6 * 1.5€ = 9€
+- 53 buttons (https://fr.aliexpress.com/item/1005003911184656.html) = 1 * 14,79€
+
+For controll:
+- 2x ESP-WROOM-32 (https://fr.aliexpress.com/item/1005005655238798.html) = 2*5€ = 10€
+  -> One for logic and generate DMX
+  -> One for manage inputs
+- 2x  MAX485 Module RS-485 (https://fr.aliexpress.com/item/1005005737922222.html) = 1*2.44€
+
+For power:
+- Power 5V 4A (https://fr.aliexpress.com/item/1005008468643815.html) = 1 * 9,59€
+- Electrolytic Capacitor (470uF 16V) (https://fr.aliexpress.com/item/1005009417460390.html) = 1 * 3,99€
+- 20Pcs Ceramic capacitor 50V (100nF 50V) (https://fr.aliexpress.com/item/1005012122696428.html) = 1 * 6,09€
+- ON-Off Toggle Switch (https://fr.aliexpress.com/item/1005010015277754.html) = 1 * 1.13€
+- 1k Ohm (https://fr.aliexpress.com/item/1005011813359681.html) = 1 * 4,39€
+- 10k Ohm (https://fr.aliexpress.com/item/1005011813359681.html) = 1 * 5.19€
+- 120 Ohm (https://fr.aliexpress.com/item/1005011813359681.html) = 1 * 5.19€
+- 100 x Diode (https://fr.aliexpress.com/item/1005002339916163.html) = 1 * 0,94€
+- XLR 3Pin Panel Mount Connectors (4PCS XLR 3Pin Panel Mount Connectors Male/Female Durable Metal Housing Silver Jack for Pro Audio Mic Speaker) = 1 * 4.19€
+- DC Power Jack (https://fr.aliexpress.com/item/1005011863804603.html) = 1 * 1,23€
+- Panel Mount Fuse (10pcs/lot Panel Mount PCB Fuse Holder Case with transparent Cover 5x20mm 250V) = 1 * 1.79€
+- Glass Fuse 250V 2A = 1 * 1.96€
+
+Proto:
+- PCB Circuit Prototyping Board (PCB Circuit Prototyping Board Double Side Prototype Boards DIY Universal Printed Perfboard Electronic Kit) = 1 * 3,19€
+- Wire (https://fr.aliexpress.com/item/1005006996255957.html) = 1 * 2,79€
+- Tin cable for welding (https://fr.aliexpress.com/item/1005009973086759.html) = 1 * 4,59€
+- Heat shrink tubing for each connexion (164PCS 2: 1 Cable Shrink Tube Kit Heat Assorted Pack Thermoretractile Insulation Sleeving Cable Wire Shrink Wrapping for DIY) = 1 * 2.19€
+
+For print:
+- 1 Kg PLA (https://fr.aliexpress.com/item/1005007175412873.html) = 1 * 15,99€
+
+Total: 
+115,94€ = $135,22
+
+I made aliexpress shopping card:
+![aliexpress](https://cdn.hackclub.com/019ea840-0a52-7b91-a6ff-e8ae31e91cd1/aliexpress.png)
+so I remake all link of my BOM and all prices
+
+**Case:**
+![face1](https://cdn.hackclub.com/019ea840-1c26-7bdb-a971-4684545e59a9/face1.png)
+![face2](https://cdn.hackclub.com/019ea840-22cc-7bb4-8004-51aa5e3d1601/face2.png)
+![face3](https://cdn.hackclub.com/019ea840-2a3b-76fd-826f-396049e7bc31/face3.png)
+![face4](https://cdn.hackclub.com/019ea840-3185-77f0-8094-3448adbb776b/face4.png)
+
+**Scheme:**
+![scheme](https://cdn.hackclub.com/019ea840-8a1d-7e76-b6ec-80f98a149ecf/scheme1.png)
+![scheme](https://cdn.hackclub.com/019ea840-947c-7254-9663-6ddf17bfb7d4/scheme2.png)
+![scheme](https://cdn.hackclub.com/019ea840-9ea5-7d7f-bafd-684191c5ab76/scheme3.png)
+![scheme](https://cdn.hackclub.com/019ea840-a94a-7f4a-a583-fcd4d778e3f2/scheme4.png)
+![scheme](https://cdn.hackclub.com/019ea840-b62b-7777-bc63-e0acaa00ceb1/scheme5.png)
+![scheme](https://cdn.hackclub.com/019ea840-cb90-79dc-a2a0-0d4cffd29459/tk1.png)
+
+**Script**
+[Here script files](dev/ESP/ESP_DMX/DMX_Controller/DMX_Controller.ino)
+
+**Files**
+[Case](assets\DMXEasy.f3d)
+[Scheme](assets\scheme.pdn)
+
+I'm now ready for build it, I think
+
+**Total time spent: 3 hours**
