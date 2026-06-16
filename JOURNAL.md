@@ -285,3 +285,30 @@ so I remake all link of my BOM and all prices
 I'm now ready for build it, I think
 
 **Total time spent: 3 hours**
+
+# June 16: After wait I have received response about my project
+
+I have received this message from reviewer:
+Hey! 
+You will need an assembled model of the project with all the electronics components and case, also I am unable to understand your wiring diagram, please have a clean labelled diagram and dont forget to upload the step files for CAD :3
+
+Whats I understand:
+- I need to make a assembling file for case
+- Scheme is actually difficult to read ?
+
+First pb:
+I decided: I hate Fusion 360, cannot import stl because of cloud space .... lot of bugs...
+![assemblingAll](https://cdn.hackclub.com/019ecfe7-ca79-73af-a33e-285ea5930a3f/assemblingAll.png)
+![assemblingAll2](https://cdn.hackclub.com/019ecfe7-ddde-71da-be12-7aa3c81692a3/assemblingAll2.png)
+
+See file in assets\AssemblageDMXEasy.f3z
+
+Second pb:
+![newScheme](https://cdn.hackclub.com/019ecfe8-0a48-71f4-81ff-893876d2317a/nScheme.png)
+I added data on my scheme but I would like to know what's cannot be understand ?
+Maybe the buttons part or faders part because it corresponds to the matrix diagram that was created on Tinkercad ? ![scheme](https://cdn.hackclub.com/019ea840-cb90-79dc-a2a0-0d4cffd29459/tk1.png)
+
+
+
+And the files are in assets file of repo for the scheme.pdn (paint.net) & Fusion 360 file
+**Total time spent: 4 hours**
