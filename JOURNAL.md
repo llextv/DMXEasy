@@ -312,3 +312,13 @@ Maybe the buttons part or faders part because it corresponds to the matrix diagr
 
 And the files are in assets file of repo for the scheme.pdn (paint.net) & Fusion 360 file
 **Total time spent: 4 hours**
+
+## July 16: After 1 month of wait I have response
+
+"Heyaa, I see in your journal that you have made the changes requested in last review but you forgot to have those updated in the readme, also i really recommend adding labels in your wiring diagram which makes it easier for everyone to read and understand :3"
+
+So for patching this I update my README.md with all informations
+and I adding some labels on my diagrams
+![alt text](image.png)
+
+**Total time spent: 1 hours**
