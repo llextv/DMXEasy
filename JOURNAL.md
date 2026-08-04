@@ -362,3 +362,5 @@ AssemblageDMXEasy.step
 
 This is the final idea but for arrived to this product I also try to make closing like battery (pile) juste to close with push but I check how to make but no find in fusion ?
 So I made basically
+
+**Total time spent: 3.5 hours**
