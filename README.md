@@ -38,7 +38,9 @@ See the BOM in [bom.csv](BOM.csv) or at the end of file
 [Here script files](dev/ESP/ESP_DMX/DMX_Controller/DMX_Controller.ino)
 
 **Files**
-[Case](assets\DMXEasy.f3d)
+[Case](assets\DMXEasy.step)
+[Case Bottom](assets\BottomDMXEasy.step)
+[Assembly](assets\AssemblageDMXEasy.step)
 [Scheme](assets\scheme.pdn)
 
 

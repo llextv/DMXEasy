@@ -322,3 +322,43 @@ and I adding some labels on my diagrams
 ![alt text](image.png)
 
 **Total time spent: 1 hours**
+
+## Response and return
+I have a response for my project:
+
+"Hey, cool idea, but you need to fix the approach of mounting electronic components for stable design before final approval.
+
+Specifically, I see you are trying to mount the component by adding pillar-like structure that will support four corners of your electronics. However, since it is not attached to the main case, it is highly unlikely it will stand still at fixed place. My recommendation would be adding floor (detachable) in the case, and making hole that aligns to position of holes on your electronics so you can use screws and nuts to tightly hold them together:)
+
+Also, add .step file of final assembly on your github pls '3'"
+
+"
+
+So with this message I detect 4 problems:
+-> Fixation of component
+-> Support not fixed at main structure
+-> Floor detecheable
+-> .step file and assembly in github
+
+So for each problem:
+- fixation of component:
+I made hole in my bottom structure for fix component fixture:
+![alt text](image-4.png)
+
+- support for main structure:
+I add hole for M5.5 between bottom and top
+![alt text](image-2.png)
+
+- floor detecheable:
+"I add hole for M5.5 between bottom and top
+![alt text](image-2.png)" --> same
+![alt text](image-3.png)
+
+- step file:
+I remake a big assembly with all:
+![alt text](image-5.png)
+![alt text](image-6.png)
+AssemblageDMXEasy.step
+
+This is the final idea but for arrived to this product I also try to make closing like battery (pile) juste to close with push but I check how to make but no find in fusion ?
+So I made basically
