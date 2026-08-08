@@ -69,3 +69,30 @@ See the BOM in [bom.csv](BOM.csv) or at the end of file
 | Prototype  | Gaine thermorétractable                     |        1 |              2.19 |           2.19 | Kit 164 pcs                                    |                                                                                                              |
 | Impression | PLA 1 kg                                    |        1 |             15.99 |          15.99 |                                                | [https://fr.aliexpress.com/item/1005007175412873.html](https://fr.aliexpress.com/item/1005007175412873.html) |
 | **TOTAL**  |                                             |          |                   |     **115.94** |                                                |                                                                                                              |
+
+
+## How it's works ?
+DMXEasy is a low-cost DIY DMX controller based on two ESP32 microcontrollers.
+The user interacts with the controller using the 53 buttons and 6 faders. The buttons are arranged in a matrix to reduce the number of GPIO pins required. The faders provide analog values that can be read by the ESP32.
+One ESP32 is dedicated to handling the physical inputs, while the second ESP32 handles the controller logic and generates the DMX512 data.
+The general data flow is:
+Buttons / Faders
+       ↓
+Input ESP32
+       ↓
+Control data
+       ↓
+Main ESP32
+       ↓
+DMX512 data
+       ↓
+MAX485
+       ↓
+XLR DMX output
+       ↓
+DMX lighting fixtures
+
+When a button is pressed or a fader is moved, the input ESP32 detects the change and sends the corresponding control information to the main ESP32. The main ESP32 processes this information and updates the DMX values.
+The updated DMX data is then transmitted using the DMX512 protocol. Since DMX512 uses an RS-485 physical layer, a MAX485 module is used to convert the ESP32's serial signal into the differential signal required by DMX.
+The final result is that changing a control on the physical console changes the corresponding DMX values sent to the lighting fixtures.
+The project is designed so that the hardware remains relatively simple and inexpensive while providing a physical interface for controlling DMX equipment.
