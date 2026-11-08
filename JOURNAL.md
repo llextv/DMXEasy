@@ -313,7 +313,7 @@ Maybe the buttons part or faders part because it corresponds to the matrix diagr
 And the files are in assets file of repo for the scheme.pdn (paint.net) & Fusion 360 file
 **Total time spent: 4 hours**
 
-## July 16: After 1 month of wait I have response
+# July 16: After 1 month of wait I have response
 
 "Heyaa, I see in your journal that you have made the changes requested in last review but you forgot to have those updated in the readme, also i really recommend adding labels in your wiring diagram which makes it easier for everyone to read and understand :3"
 
@@ -323,7 +323,7 @@ and I adding some labels on my diagrams
 
 **Total time spent: 1 hours**
 
-## Response and return
+# Response and return
 I have a response for my project:
 
 "Hey, cool idea, but you need to fix the approach of mounting electronic components for stable design before final approval.
@@ -366,7 +366,7 @@ So I made basically
 **Total time spent: 3.5 hours**
 
 
-## Response and return 2
+# Response and return 2
 I received:
 "Heyy! I can see you have a really great idea for a project, but before this can be approved, you still need to work on the case, I do not see any usb ports for the esp32 to be connected, if you forgot that please make sure to add it, also I see you have switches in the readme image but not in assembled model! The wiring diagram can be lot improved ( it needs to be clear so someone else can recreate your project ) I recommend making a wiring diagram in kicad schematics, with the use of labels or in cirkit designer! There are a lot of ways to show your creativity and polish! the readme can be more detailed with stuff on. how to build this, your bom.csv is not formatting right, you should fix that! I am moving it down to tier 3 cause of the complexity and polish on your project! Last thing your journals are not detailed enough for the work shown, so it will be deflated!"
 
