@@ -364,3 +364,14 @@ This is the final idea but for arrived to this product I also try to make closin
 So I made basically
 
 **Total time spent: 3.5 hours**
+
+
+## Response and return 2
+I received:
+"Heyy! I can see you have a really great idea for a project, but before this can be approved, you still need to work on the case, I do not see any usb ports for the esp32 to be connected, if you forgot that please make sure to add it, also I see you have switches in the readme image but not in assembled model! The wiring diagram can be lot improved ( it needs to be clear so someone else can recreate your project ) I recommend making a wiring diagram in kicad schematics, with the use of labels or in cirkit designer! There are a lot of ways to show your creativity and polish! the readme can be more detailed with stuff on. how to build this, your bom.csv is not formatting right, you should fix that! I am moving it down to tier 3 cause of the complexity and polish on your project! Last thing your journals are not detailed enough for the work shown, so it will be deflated!"
+
+So I just spend 1 hour to remake my readme, cleaning my DMX easy CAD, modifing BOM.csv to ensure correct format and update my Assembly:
+![alt text](https://cdn.hackclub.com/01a1bc7c-7a16-7564-9396-94379fac7ed7/Capture%20d'%C3%A9cran%202026-11-08%20194702.png)
+
+
+**Total time spent: 1 hours**
