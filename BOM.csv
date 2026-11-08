@@ -1,23 +1,23 @@
-Categorie;Article;Quantite;Prix_Unitaire_EUR;Prix_Total_EUR;Notes;URL
-Controls;Fader;6;1.50;9.00;;https://fr.aliexpress.com/item/1005006152089336.html
-Controls;Button;1;14.79;14.79;Lot de 53 boutons;https://fr.aliexpress.com/item/1005003911184656.html
-Controls;ESP-WROOM-32;2;5.00;10.00;1 pour logique/DMX, 1 pour gestion des entrées;https://fr.aliexpress.com/item/1005005655238798.html
-Controls;MAX485 Module RS-485;1;2.44;2.44;Lot de 2 modules;https://fr.aliexpress.com/item/1005005737922222.html
-Power;Alimentation 5V 4A;1;9.59;9.59;;https://fr.aliexpress.com/item/1005008468643815.html
-Power;Condensateur électrolytique 470uF 16V;1;3.99;3.99;;https://fr.aliexpress.com/item/1005009417460390.html
-Power;Condensateurs céramiques 100nF 50V (20 pcs);1;6.09;6.09;;https://fr.aliexpress.com/item/1005012122696428.html
-Power;Interrupteur ON/OFF;1;1.13;1.13;;https://fr.aliexpress.com/item/1005010015277754.html
-Power;Résistance 1kΩ;1;4.39;4.39;;https://fr.aliexpress.com/item/1005011813359681.html
-Power;Résistance 10kΩ;1;5.19;5.19;;https://fr.aliexpress.com/item/1005011813359681.html
-Power;Résistance 120Ω;1;5.19;5.19;;https://fr.aliexpress.com/item/1005011813359681.html
-Power;Diodes (100 pcs);1;0.94;0.94;;https://fr.aliexpress.com/item/1005002339916163.html
-Power;Connecteurs XLR 3 broches;1;4.19;4.19;Lot de 4 connecteurs;
-Power;Jack alimentation DC;1;1.23;1.23;;https://fr.aliexpress.com/item/1005011863804603.html
-Power;Porte-fusible panneau;1;1.79;1.79;Lot de 10;
-Power;Fusible verre 250V 2A;1;1.96;1.96;;
-Prototype;Plaque de prototypage PCB;1;3.19;3.19;; 
-Prototype;Fil électrique;1;2.79;2.79;;https://fr.aliexpress.com/item/1005006996255957.html
-Prototype;Étain de soudure;1;4.59;4.59;;https://fr.aliexpress.com/item/1005009973086759.html
-Prototype;Gaine thermorétractable;1;2.19;2.19;Kit 164 pcs;
-Impression;PLA 1 kg;1;15.99;15.99;;https://fr.aliexpress.com/item/1005007175412873.html
-TOTAL;;; ;115.94;;
+Item;Quantity;Unit Price (USD);Total Price (USD);Notes;URL
+Slide Fader;6;1.74;10.44;;https://fr.aliexpress.com/item/1005006152089336.html
+Push Button;1;17.16;17.16;Pack of 53 buttons;https://fr.aliexpress.com/item/1005003911184656.html
+ESP-WROOM-32;2;5.80;11.60;1 for logic/DMX, 1 for input management;https://fr.aliexpress.com/item/1005005655238798.html
+MAX485 RS-485 Module;1;2.83;2.83;Pack of 2 modules;https://fr.aliexpress.com/item/1005005737922222.html
+5V 4A Power Supply;1;11.12;11.12;;https://fr.aliexpress.com/item/1005008468643815.html
+470uF 16V Electrolytic Capacitor;1;4.63;4.63;;https://fr.aliexpress.com/item/1005009417460390.html
+100nF 50V Ceramic Capacitors;1;7.06;7.06;Pack of 20;https://fr.aliexpress.com/item/1005012122696428.html
+ON/OFF Power Switch;1;1.31;1.31;;https://fr.aliexpress.com/item/1005010015277754.html
+1k Ohm Resistor;1;5.09;5.09;;https://fr.aliexpress.com/item/1005011813359681.html
+10k Ohm Resistor;1;6.02;6.02;;https://fr.aliexpress.com/item/1005011813359681.html
+120 Ohm Resistor;1;6.02;6.02;;https://fr.aliexpress.com/item/1005011813359681.html
+Diodes;1;1.09;1.09;Pack of 100;https://fr.aliexpress.com/item/1005002339916163.html
+3-Pin XLR Connectors;1;4.86;4.86;Pack of 4;
+DC Power Jack;1;1.43;1.43;;https://fr.aliexpress.com/item/1005011863804603.html
+Panel Mount Fuse Holder;1;2.08;2.08;Pack of 10;
+250V 2A Glass Fuse;1;2.27;2.27;;
+Prototype PCB Board;1;3.70;3.70;;
+Electrical Wire;1;3.24;3.24;;https://fr.aliexpress.com/item/1005006996255957.html
+Solder Wire;1;5.32;5.32;;https://fr.aliexpress.com/item/1005009973086759.html
+Heat Shrink Tubing;1;2.54;2.54;164-piece kit;
+PLA Filament 1kg;1;18.55;18.55;;https://fr.aliexpress.com/item/1005007175412873.html
+TOTAL;;;134.36;;
