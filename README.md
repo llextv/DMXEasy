@@ -22,8 +22,7 @@ See the BOM in [bom.csv](BOM.csv) or at the end of file
 ![face4](https://cdn.hackclub.com/019ea840-3185-77f0-8094-3448adbb776b/face4.png)
 
 **Assembly**
-![assemblingAll](https://cdn.hackclub.com/019ecfe7-ca79-73af-a33e-285ea5930a3f/assemblingAll.png)
-![assemblingAll2](https://cdn.hackclub.com/019ecfe7-ddde-71da-be12-7aa3c81692a3/assemblingAll2.png)
+![assemblingAll]([https://cdn.hackclub.com/019ecfe7-ca79-73af-a33e-285ea5930a3f/assemblingAll.png](https://cdn.hackclub.com/01a1bc7c-7a16-7564-9396-94379fac7ed7/Capture%20d'%C3%A9cran%202026-11-08%20194702.png))
 
 **Scheme:**
 ![scheme](https://cdn.hackclub.com/019ecfe8-0a48-71f4-81ff-893876d2317a/nScheme.png)
