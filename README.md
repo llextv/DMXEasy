@@ -43,33 +43,32 @@ See the BOM in [bom.csv](BOM.csv) or at the end of file
 [Assembly](assets\AssemblageDMXEasy.step)
 [Scheme](assets\scheme.pdn)
 
-
 ## BOM
-| Catégorie  | Article                                     | Quantité | Prix unitaire (€) | Prix total (€) | Notes                                          | URL                                                                                                          |
-| ---------- | ------------------------------------------- | -------: | ----------------: | -------------: | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Controls   | Fader                                       |        6 |              1.50 |           9.00 |                                                | [https://fr.aliexpress.com/item/1005006152089336.html](https://fr.aliexpress.com/item/1005006152089336.html) |
-| Controls   | Button                                      |        1 |             14.79 |          14.79 | Lot de 53 boutons                              | [https://fr.aliexpress.com/item/1005003911184656.html](https://fr.aliexpress.com/item/1005003911184656.html) |
-| Controls   | ESP-WROOM-32                                |        2 |              5.00 |          10.00 | 1 pour logique/DMX, 1 pour gestion des entrées | [https://fr.aliexpress.com/item/1005005655238798.html](https://fr.aliexpress.com/item/1005005655238798.html) |
-| Controls   | MAX485 Module RS-485                        |        1 |              2.44 |           2.44 | Lot de 2 modules                               | [https://fr.aliexpress.com/item/1005005737922222.html](https://fr.aliexpress.com/item/1005005737922222.html) |
-| Power      | Alimentation 5V 4A                          |        1 |              9.59 |           9.59 |                                                | [https://fr.aliexpress.com/item/1005008468643815.html](https://fr.aliexpress.com/item/1005008468643815.html) |
-| Power      | Condensateur électrolytique 470uF 16V       |        1 |              3.99 |           3.99 |                                                | [https://fr.aliexpress.com/item/1005009417460390.html](https://fr.aliexpress.com/item/1005009417460390.html) |
-| Power      | Condensateurs céramiques 100nF 50V (20 pcs) |        1 |              6.09 |           6.09 |                                                | [https://fr.aliexpress.com/item/1005012122696428.html](https://fr.aliexpress.com/item/1005012122696428.html) |
-| Power      | Interrupteur ON/OFF                         |        1 |              1.13 |           1.13 |                                                | [https://fr.aliexpress.com/item/1005010015277754.html](https://fr.aliexpress.com/item/1005010015277754.html) |
-| Power      | Résistance 1kΩ                              |        1 |              4.39 |           4.39 |                                                | [https://fr.aliexpress.com/item/1005011813359681.html](https://fr.aliexpress.com/item/1005011813359681.html) |
-| Power      | Résistance 10kΩ                             |        1 |              5.19 |           5.19 |                                                | [https://fr.aliexpress.com/item/1005011813359681.html](https://fr.aliexpress.com/item/1005011813359681.html) |
-| Power      | Résistance 120Ω                             |        1 |              5.19 |           5.19 |                                                | [https://fr.aliexpress.com/item/1005011813359681.html](https://fr.aliexpress.com/item/1005011813359681.html) |
-| Power      | Diodes (100 pcs)                            |        1 |              0.94 |           0.94 |                                                | [https://fr.aliexpress.com/item/1005002339916163.html](https://fr.aliexpress.com/item/1005002339916163.html) |
-| Power      | Connecteurs XLR 3 broches                   |        1 |              4.19 |           4.19 | Lot de 4 connecteurs                           |                                                                                                              |
-| Power      | Jack alimentation DC                        |        1 |              1.23 |           1.23 |                                                | [https://fr.aliexpress.com/item/1005011863804603.html](https://fr.aliexpress.com/item/1005011863804603.html) |
-| Power      | Porte-fusible panneau                       |        1 |              1.79 |           1.79 | Lot de 10                                      |                                                                                                              |
-| Power      | Fusible verre 250V 2A                       |        1 |              1.96 |           1.96 |                                                |                                                                                                              |
-| Prototype  | Plaque de prototypage PCB                   |        1 |              3.19 |           3.19 |                                                |                                                                                                              |
-| Prototype  | Fil électrique                              |        1 |              2.79 |           2.79 |                                                | [https://fr.aliexpress.com/item/1005006996255957.html](https://fr.aliexpress.com/item/1005006996255957.html) |
-| Prototype  | Étain de soudure                            |        1 |              4.59 |           4.59 |                                                | [https://fr.aliexpress.com/item/1005009973086759.html](https://fr.aliexpress.com/item/1005009973086759.html) |
-| Prototype  | Gaine thermorétractable                     |        1 |              2.19 |           2.19 | Kit 164 pcs                                    |                                                                                                              |
-| Impression | PLA 1 kg                                    |        1 |             15.99 |          15.99 |                                                | [https://fr.aliexpress.com/item/1005007175412873.html](https://fr.aliexpress.com/item/1005007175412873.html) |
-| **TOTAL**  |                                             |          |                   |     **115.94** |                                                |                                                                                                              |
 
+| Item | Quantity | Unit Price ($) | Total Price ($) | Notes | URL |
+| --- | ---: | ---: | ---: | --- | --- |
+| Slide Fader | 6 | 1.74 | 10.44 | | [Link](https://fr.aliexpress.com/item/1005006152089336.html) |
+| Push Button | 1 | 17.16 | 17.16 | Pack of 53 buttons | [Link](https://fr.aliexpress.com/item/1005003911184656.html) |
+| ESP-WROOM-32 | 2 | 5.80 | 11.60 | 1 for logic/DMX, 1 for input management | [Link](https://fr.aliexpress.com/item/1005005655238798.html) |
+| MAX485 RS-485 Module | 1 | 2.83 | 2.83 | Pack of 2 modules | [Link](https://fr.aliexpress.com/item/1005005737922222.html) |
+| 5V 4A Power Supply | 1 | 11.12 | 11.12 | | [Link](https://fr.aliexpress.com/item/1005008468643815.html) |
+| 470uF 16V Electrolytic Capacitor | 1 | 4.63 | 4.63 | | [Link](https://fr.aliexpress.com/item/1005009417460390.html) |
+| 100nF 50V Ceramic Capacitors | 1 | 7.06 | 7.06 | Pack of 20 | [Link](https://fr.aliexpress.com/item/1005012122696428.html) |
+| ON/OFF Power Switch | 1 | 1.31 | 1.31 | | [Link](https://fr.aliexpress.com/item/1005010015277754.html) |
+| 1k Ohm Resistor | 1 | 5.09 | 5.09 | | [Link](https://fr.aliexpress.com/item/1005011813359681.html) |
+| 10k Ohm Resistor | 1 | 6.02 | 6.02 | | [Link](https://fr.aliexpress.com/item/1005011813359681.html) |
+| 120 Ohm Resistor | 1 | 6.02 | 6.02 | | [Link](https://fr.aliexpress.com/item/1005011813359681.html) |
+| Diodes | 1 | 1.09 | 1.09 | Pack of 100 | [Link](https://fr.aliexpress.com/item/1005002339916163.html) |
+| 3-Pin XLR Connectors | 1 | 4.86 | 4.86 | Pack of 4 | |
+| DC Power Jack | 1 | 1.43 | 1.43 | | [Link](https://fr.aliexpress.com/item/1005011863804603.html) |
+| Panel Mount Fuse Holder | 1 | 2.08 | 2.08 | Pack of 10 | |
+| 250V 2A Glass Fuse | 1 | 2.27 | 2.27 | | |
+| Prototype PCB Board | 1 | 3.70 | 3.70 | | |
+| Electrical Wire | 1 | 3.24 | 3.24 | | [Link](https://fr.aliexpress.com/item/1005006996255957.html) |
+| Solder Wire | 1 | 5.32 | 5.32 | | [Link](https://fr.aliexpress.com/item/1005009973086759.html) |
+| Heat Shrink Tubing | 1 | 2.54 | 2.54 | 164-piece kit | |
+| PLA Filament 1kg | 1 | 18.55 | 18.55 | | [Link](https://fr.aliexpress.com/item/1005007175412873.html) |
+| **TOTAL** | | | **134.36** | | |
 
 ## How it's works ?
 DMXEasy is a low-cost DIY DMX controller based on two ESP32 microcontrollers.
@@ -96,3 +95,15 @@ When a button is pressed or a fader is moved, the input ESP32 detects the change
 The updated DMX data is then transmitted using the DMX512 protocol. Since DMX512 uses an RS-485 physical layer, a MAX485 module is used to convert the ESP32's serial signal into the differential signal required by DMX.
 The final result is that changing a control on the physical console changes the corresponding DMX values sent to the lighting fixtures.
 The project is designed so that the hardware remains relatively simple and inexpensive while providing a physical interface for controlling DMX equipment.
+
+## Conclusion
+
+This project was really interesting for me because I learned a lot of things about electronics, ESP32 and DMX protocol.
+
+It was not always easy, I had some problems with the wiring, the code and the assembly, but finally I managed to make it work.
+
+I'm happy with the final result because I now have my own DMX controller for a much lower price than a commercial one.
+
+Of course, it's not perfect and I can improve some things in the future, but for a DIY project I think it's pretty good!
+
+Thanks for reading my project!
